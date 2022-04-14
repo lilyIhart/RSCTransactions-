@@ -2,9 +2,10 @@
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       title="Royal Society of Canada Transactions"
+       author="Lily Hart"
+       banner="https://iiif.juncture-digital.org/banner/
+       ?url=https://ia600306.us.archive.org/BookReader/BookReaderImages.php?id=proceedingstrans14roya&itemPath=%2F29%2Fitems%2Fproceedingstrans14roya&server=ia600306.us.archive.org&page=n6_w392" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and

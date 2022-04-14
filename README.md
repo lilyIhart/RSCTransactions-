@@ -5,7 +5,7 @@
        title="Royal Society of Canada Transactions"
        author="Lily Hart"
        banner="https://iiif.juncture-digital.org/banner/
-       ?url=https://ia600306.us.archive.org/BookReader/BookReaderImages.php?id=proceedingstrans14roya&itemPath=%2F29%2Fitems%2Fproceedingstrans14roya&server=ia600306.us.archive.org&page=n6_w392" 
+       ?url= "https://ia600306.us.archive.org/BookReader/BookReaderImages.php?id=proceedingstrans14roya&itemPath=%2F29%2Fitems%2Fproceedingstrans14roya&server=ia600306.us.archive.org&page=n6_w392" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
@@ -33,7 +33,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://d3525k1ryd2155.cloudfront.net/h/457/215/877215457.0.x.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RSC_Crest.GIF/150px-RSC_Crest.GIF">
 
 ## Map
 

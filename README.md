@@ -33,7 +33,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://ia600306.us.archive.org/BookReader/BookReaderImages.php?id=proceedingstrans14roya&itemPath=%2F29%2Fitems%2Fproceedingstrans14roya&server=ia600306.us.archive.org&page=n6_w392">
 
 ## Map
 
